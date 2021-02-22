@@ -23,7 +23,11 @@ body {
 
 a{
       text-decoration:none;
-      color: #F08000;	
+      color: #F08000; 	
+}
+
+h3{
+	color: #F08000;
 }
 
 footer {

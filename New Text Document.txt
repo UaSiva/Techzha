@@ -1,0 +1,92 @@
+<html>
+  <head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Q9KR7LXMCF"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-Q9KR7LXMCF');
+</script>
+<link rel="stylesheet" href="techzhaStyle.css">
+   
+<!--meta name="viewport" content="width=device-width, initial-scale=1.0"> -->
+  </head>
+<body style="background-color:#000;">
+
+<div class="mainpara">  
+<br>
+
+<h1><a href="index.html">TECHZHA</a></h1>
+	
+<img src="images/googleio2021.jpg" alt="This is the photo of the Google I/O 2021 logo.">
+
+<h3>Microsoft Windows 11 Event : Fresh and Glassy !</h3>
+<br>
+
+<h1>A first look</h1>
+<br>
+<h7>It was an interesting event.
+
+You have to give it to them 
+Windows 11 is modern, clean, fresh and beautiful.
+
+I think it’s a beginning of Microsoft starting to give some good competition to Apple’s macOS.
+
+The new window management features are a delight to look at ! And managing windows intelligently while docking is a cherry on top. Apple must take a look at this and improve their window management story.
+</h7>
+
+<h1>Taking ideas from Apple</h1>
+<br>
+<h7>Microsoft has cherry picked some best features from both macOS, iOS and presented this new “Glassy” format in Windows 11 . A lot of similarities,
+the Start Menu bar looking like the dock, the  translucency theme , sudden interest in widgets. 
+Start menu looks very similar to Spotlight in iOS and Mac. 
+
+Also, The entire OS looks like a modern taken of Apple’s 2000 Aqua User Interface for some reason lol.
+
+But , This will be forcing Apple to innovat
+</h7>
+
+<h1>A note to Google</h1>
+<br>
+<h7>Both Apple and Microsoft beginning to highlight searching the web from their built in OS search , Google has to watch this closely and keep innovating in search because Microsoft already has a search engine and Apple has the money to build one.
+</h7>
+
+<h1>Windows Runs Android Apps !!! WTH !!!</h1>
+<br>
+<h7>Windows 11 runs (some) Android apps
+(still wth !!!! Nice !!!)
+Also the apps are provided by Amazon AppStore using Intel Bridge technology 
+...... uhhhhh..... what ?! ........Why ? 
+Isn’t there something called the
+Android PlayStore 🤷‍♂️ 
+
+I’ll try to cover the Why part after reading more into it.
+
+But, what you are seeing here is
+4 companies Intel, Microsoft, Google and Amazon joining hands to compete with a single company , Apple .
+</h7>
+
+<h1>Taking shots at Apple </h1>
+<br>
+<h7>Also a silent snide to Apple’s AppStore policies by saying if the Apps bring in their own commerce engine Microsoft doesn’t take any revenue share. Microsoft can afford to do this because their store is very small and they need growth but for for Apple it billions and billions of $ lol. Still this will be another small peer pressure from a competitor for Apple to update its AppStore policies.
+</h7>
+<br>
+<p>#Windows11</p> 
+<br>
+<p>29 JUNE 2021</p>
+<hr class="secLine">
+
+	<a href="index.html"><u>Go Back Home</u></a>
+
+<br><br><br><br><br>
+
+<footer>
+  <p>Copyright &#169 2020 Siva.</p> <br><p> All rights reserved. This website was developed from scratch by the author. </p>
+</footer>
+
+
+</div>
+</body>
+</html>

@@ -7,6 +7,11 @@ body {
   margin-left: 77px;
 }
 
+img {
+  width: 100%;
+  height: auto;
+}
+
 .mainpara {
 
   margin-top : 50px;
